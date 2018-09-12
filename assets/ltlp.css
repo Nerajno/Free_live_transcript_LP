@@ -1,0 +1,16 @@
+#main_video_bkgrnd{
+width: 100%;
+max-width:992px;
+margin:auto;
+display:block;
+position: static;
+padding:0.4em;
+z-index: -100;
+}
+
+#brfsynps{
+  position: static;
+  z-index: 2;
+  width: auto 0;
+  background-color: green;
+}
